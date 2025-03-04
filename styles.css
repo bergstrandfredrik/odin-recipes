@@ -1,0 +1,42 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    background-color: blueviolet;
+    color:azure;
+    font-size: 40px;
+}
+
+h1,
+h2,
+.center {
+    text-align: center;
+}
+
+h2{
+  background-color: salmon;
+  color: green;  
+}
+
+p {
+    color: red;
+}
+
+ul li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+a {
+    background-color: aquamarine;
+    font-style: italic;
+}
+
